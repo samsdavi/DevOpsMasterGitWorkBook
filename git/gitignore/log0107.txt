@@ -1,0 +1,1 @@
+<h1> Practicing cached rm command </h1>
